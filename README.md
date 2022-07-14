@@ -1,6 +1,6 @@
 # pyflvmeta
 
-A naive Python wraper for [flvmeta](https://flvmeta.com/).
+A naive Python wraper for [flvmeta](https://flvmeta.com/). For both Linux and Windows.
 Used to extract, check, or update the metadata in *.flv video file.
 
 ## Installation
